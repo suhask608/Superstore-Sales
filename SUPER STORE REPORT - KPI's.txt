@@ -1,0 +1,12 @@
+SUPER STORE REPORT - KPI's
+
+1. Sales by Category - Using bar chart we can see the categories were: Technology, Office supplies, Furniture.
+2. Sales by Sub Category - Using bar chart we can see top 4 sub categories after adding filter were: Phones, chairs, binders, storage.
+3. Sales by Ship Mode - Using bar chart we can see the mode of shippments were: Same day, standard class, first class & second class.
+4. Sales by Month - Using line chart we can see the highest sales on DEC month.
+5. Profit by Month - Using line chart we can see the highest profit on OCT and DEC month.
+6. Profit & sales by state - Using Map we can see the states which have sales & profit accordingly.
+7. Sales by Payment mode - Using donut chart we can see the mode of payments were: Cards, COD, Online.
+8. Sales by Region - Using donut chart we can see the regions were: Central, east, south, west.
+9. Sales by Segment - Using donut chart we can see the segments were:Corporate, Consumer, Home Office.
+10. Format - In this project have not only done the analysis did the forecast for future(15 days) based on existing values.
